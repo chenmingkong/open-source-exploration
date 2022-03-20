@@ -7,8 +7,14 @@
 
 ## 目录
 
-- :coffee: 开始探索
-  - [【开源探索1】有趣的多人协作在线草稿板](https://blog.csdn.net/kongmingxiaoxiao/article/details/123604244)
-  - [【开源探索2】多功能主机管理平台](https://blog.csdn.net/kongmingxiaoxiao/article/details/123605226)
-  - [【开源探索3】超轻量化持续构建流水线](https://blog.csdn.net/kongmingxiaoxiao/article/details/123605257)
-
+- :coffee: 程序员充电
+  - [【开源探索】程序员面试基础知识一本通](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610760)
+  - [【开源探索】很全的spring结合的demo代码](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610742)
+- :pencil2: 运维&devops
+  - [【开源探索】多功能主机管理平台](https://blog.csdn.net/kongmingxiaoxiao/article/details/123605226)
+  - [【开源探索】超轻量化持续构建流水线](https://blog.csdn.net/kongmingxiaoxiao/article/details/123605257)
+  - [【开源探索】一个java&vue编写的后台管理系统demo](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610777)
+- :wrench: 有趣的工具
+  - [【开源探索】有趣的多人协作在线草稿板](https://blog.csdn.net/kongmingxiaoxiao/article/details/123604244)
+- :memo: 知识管理
+  - [【开源探索】一款现代化的开源博客](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610719) 
