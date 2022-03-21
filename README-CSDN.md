@@ -10,6 +10,7 @@
 - :coffee: 程序员充电
   - [【开源探索】程序员面试基础知识一本通](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610760)
   - [【开源探索】很全的spring结合的demo代码](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610742)
+  - [【开源探索】真特么牛皮的算法项目]()
 - :pencil2: 运维&devops
   - [【开源探索】多功能主机管理平台](https://blog.csdn.net/kongmingxiaoxiao/article/details/123605226)
   - [【开源探索】超轻量化持续构建流水线](https://blog.csdn.net/kongmingxiaoxiao/article/details/123605257)
