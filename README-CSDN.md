@@ -18,3 +18,5 @@
   - [【开源探索】有趣的多人协作在线草稿板](https://blog.csdn.net/kongmingxiaoxiao/article/details/123604244)
 - :memo: 知识管理
   - [【开源探索】一款现代化的开源博客](https://blog.csdn.net/kongmingxiaoxiao/article/details/123610719) 
+- :watermelon: 实战demo
+  - [【开源探索】各种高仿网站合集](https://blog.csdn.net/kongmingxiaoxiao/article/details/123647969) 
